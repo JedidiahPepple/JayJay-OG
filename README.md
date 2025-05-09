@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm JayJay</h1>
+![nametext] (https://github.com/JayJay-OG/JayJay-OG/blob/main/nametext.gif)
 <h3 align="center">A charismatic and versatile developer.</h3>
 
 ![Hackerman](https://www.icegif.com/wp-content/uploads/2023/06/icegif-96.gif)
