@@ -1,6 +1,7 @@
 <h1 align="center">Hi I'm JayJay</h1>
 <h3 align="center">A charismatic and versatile developer.</h3>
 
+!(https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tenor.com/search/hacker-man-gifs&ved=2ahUKEwiCj5PKupeNAxUzUqQEHRZ6BQgQr4kDegQIGxAE&usg=AOvVaw109lar5AXOv0IxfhbPDR_V)
 
 
 <h3 align="left">Languages and Tools:</h3>
