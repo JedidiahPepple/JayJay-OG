@@ -1,13 +1,18 @@
-<h2 align="center"> Hi, I'm JayJay ◕ ◡ ◕  </h2>
-<h3 align="center">A charismatic and versatile developer </h3>
+<h2 align="center"> Hello, I'm JayJay ◕ ◡ ◕  </h2>
 
-<p align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-96.gif" alt="Hackerman" width="400"/>
-</p>
 
 ---
 
-### 🛠️ Technologies & Tools I Use
+###  Welcome to My Domain :P
+
+- Making meaningful impact,
+- Researching,
+- Crushing MW lobbies,
+- Open to learning new things.
+
+
+---
+### 🛠️ Experience:
 
 <p align="left">
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
@@ -30,15 +35,6 @@
   <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/></a>
   <a href="https://unrealengine.com/" target="_blank"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/></a>
 </p>
-
----
-
-### 👋 Welcome to My Domain :P
-
-- 🔧 I love building software that makes an impact and simplifies processes.
-- 🎮 Game dev, app dev, web dev — I do it all baby ;).
-- 🌍 Always exploring new tech and frameworks.
-- Open to learning new things.
 
 ---
 
