@@ -1,17 +1,17 @@
-#Welcome
+# Welcome
 
 - keep it short and non ambiguous
 - communicate effectively
 - be open minded
 
-##I work with:
+## I work with:
 ___
 
-> C/C++
-> Python
-> Rust
-> Web languages
-> Node.js
-> Electron
+> - C/C++
+> - Python
+> - Rust
+> - Web languages
+> - Node.js
+> - Electron
 
 ---
