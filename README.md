@@ -1,6 +1,6 @@
 # Welcome
 
-- keep it short and non ambiguous
+- keep it detailed and non ambiguous
 - communicate effectively
 - be open minded
 
