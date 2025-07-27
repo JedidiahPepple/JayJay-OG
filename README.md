@@ -7,11 +7,12 @@
 ## I work with:
 ___
 
-> - C/C++
-> - Python
-> - Rust
-> - Web languages
-> - Node.js
-> - Electron
+> - **C/C++**
+> - **Python**
+> - **Rust**
+> - **Web languages**
+> - **Node.js**
+> - **Electron**
 
+My preferred set is Python and Rust
 ---
